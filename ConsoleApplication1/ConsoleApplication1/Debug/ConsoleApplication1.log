@@ -1,0 +1,3 @@
+﻿  readingFile.cpp
+c:\users\ahmadeomar\desktop\school\advance c++\consoleapplication1\consoleapplication1\readingfile.cpp(53): warning C4553: '==': operator has no effect; did you intend '='?
+  ConsoleApplication1.vcxproj -> C:\Users\AhmadEOmar\Desktop\School\Advance C++\ConsoleApplication1\Debug\ConsoleApplication1.exe
